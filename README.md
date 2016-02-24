@@ -1,5 +1,5 @@
 # Rotten gem
-based on [this joke tweet](https://twitter.com/websigh/status/447090345437069312")
+based on [this joke tweet](https://twitter.com/websigh/status/447090345437069312)
 
 ---
 
